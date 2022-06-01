@@ -1,3 +1,4 @@
+<?php
 /**
 * @param {string} $username
 * @param {string} $title
@@ -6,3 +7,4 @@
 function buildWhereCondition( $username, $title ) {
 // Code goes here
 }
+?>
